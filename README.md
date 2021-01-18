@@ -1,2 +1,2 @@
-# russian_checkers
+# Russian checkers
 Programm for game of russian checkers
